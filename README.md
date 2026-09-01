@@ -149,5 +149,5 @@ This project is built as a college project. Feel free to use it for learning pur
 ---
 
 <div align="center">
-  Built with ❤️ by <a href="https://github.com/NavDevs">NavDevs</a>
+  Built with ❤️ by <a href="https://github.com/NavDevs">Noruzzaman</a>
 </div>
