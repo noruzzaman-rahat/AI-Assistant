@@ -142,10 +142,6 @@ See `.env.example` in each folder for the full list.
 
 ---
 
-## 📄 License
-
-This project is built as a college project. Feel free to use it for learning purposes.
-
 ---
 
 <div align="center">
